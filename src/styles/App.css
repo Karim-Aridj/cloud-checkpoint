@@ -1,0 +1,19 @@
+#root {
+	text-align: center;
+}
+
+.content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+	color: #c9d1d9;
+}
+
+.content-container {
+	width: 75%;
+	margin: 1rem;
+	border-radius: 0.5rem;
+	background-color: #077984;
+}
